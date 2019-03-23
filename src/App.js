@@ -68,13 +68,13 @@ class App extends Component {
           <div className="App">
             <div className="container">
               <Header />
-               <Route exact path="/" render={props => (
+               <Route exact path="/firstreact/" render={props => (
                 <React.Fragment>
                   <Packinglist packinglist={this.state.health} markDelete = {this.markDelete} delPackinglist = {this.delPackinglist}/>
                   <AddPackinglist addPackinglist = {this.addPackinglist}/>
                 </React.Fragment>
                 )}/>
-                <Route path="/about" component = {About} />
+                <Route path="/firstreact/about" component = {About} />
             </div>
           </div>
       </Router>
