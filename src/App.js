@@ -37,9 +37,9 @@ class App extends Component {
     }]
   }
 
-  componentDidMount() {
+  /*componentDidMount() {
     axios.get('http://girlyn.com/packinglist.json').then(res => this.setState({ health: res.data }))
-  }
+  }*/
 
   markDelete = (id) => {
     this.setState({health: this.state.health.map(packinglist => {
