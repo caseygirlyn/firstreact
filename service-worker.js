@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/caseygirlyn/firstreact/precache-manifest.634c34f1f53713a1768c527d01de9f5d.js"
+  "/firstreact/precache-manifest.c6b5837d0d33b9c0a189537ebffcaf0f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/caseygirlyn/firstreact/index.html", {
+workbox.routing.registerNavigationRoute("/firstreact/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

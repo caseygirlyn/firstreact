@@ -1,13 +1,13 @@
 {
-  "main.css": "/caseygirlyn/firstreact/static/css/main.eb6a06d3.chunk.css",
-  "main.js": "/caseygirlyn/firstreact/static/js/main.8a979295.chunk.js",
-  "main.js.map": "/caseygirlyn/firstreact/static/js/main.8a979295.chunk.js.map",
-  "runtime~main.js": "/caseygirlyn/firstreact/static/js/runtime~main.e89be98c.js",
-  "runtime~main.js.map": "/caseygirlyn/firstreact/static/js/runtime~main.e89be98c.js.map",
-  "static/js/2.1c7adc82.chunk.js": "/caseygirlyn/firstreact/static/js/2.1c7adc82.chunk.js",
-  "static/js/2.1c7adc82.chunk.js.map": "/caseygirlyn/firstreact/static/js/2.1c7adc82.chunk.js.map",
-  "index.html": "/caseygirlyn/firstreact/index.html",
-  "precache-manifest.634c34f1f53713a1768c527d01de9f5d.js": "/caseygirlyn/firstreact/precache-manifest.634c34f1f53713a1768c527d01de9f5d.js",
-  "service-worker.js": "/caseygirlyn/firstreact/service-worker.js",
-  "static/css/main.eb6a06d3.chunk.css.map": "/caseygirlyn/firstreact/static/css/main.eb6a06d3.chunk.css.map"
+  "main.css": "/firstreact/static/css/main.eb6a06d3.chunk.css",
+  "main.js": "/firstreact/static/js/main.4253a718.chunk.js",
+  "main.js.map": "/firstreact/static/js/main.4253a718.chunk.js.map",
+  "runtime~main.js": "/firstreact/static/js/runtime~main.a7d87b6e.js",
+  "runtime~main.js.map": "/firstreact/static/js/runtime~main.a7d87b6e.js.map",
+  "static/js/2.1c7adc82.chunk.js": "/firstreact/static/js/2.1c7adc82.chunk.js",
+  "static/js/2.1c7adc82.chunk.js.map": "/firstreact/static/js/2.1c7adc82.chunk.js.map",
+  "index.html": "/firstreact/index.html",
+  "precache-manifest.c6b5837d0d33b9c0a189537ebffcaf0f.js": "/firstreact/precache-manifest.c6b5837d0d33b9c0a189537ebffcaf0f.js",
+  "service-worker.js": "/firstreact/service-worker.js",
+  "static/css/main.eb6a06d3.chunk.css.map": "/firstreact/static/css/main.eb6a06d3.chunk.css.map"
 }
