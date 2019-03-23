@@ -10,7 +10,31 @@ import './App.css';
 
 class App extends Component {
   state = {
-    health: []
+    health: [{
+      "id": 1,
+      "item": "band-aids",
+      "isdeleted": false
+    },
+    {
+      "id": 2,
+      "item": "pain killers",
+      "isdeleted": false
+    },
+    {
+      "id": 3,
+      "item": "allergy medication",
+      "isdeleted": false
+    },
+    {
+      "id": 4,
+      "item": "insect repellent",
+      "isdeleted": false
+    },
+    {
+      "id": 5,
+      "item": "reading glasses",
+      "isdeleted": false
+    }]
   }
 
   componentDidMount() {
